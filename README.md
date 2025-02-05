@@ -9,6 +9,12 @@
 
 ###
 
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -41,11 +47,7 @@
 
 <p align="left">✨ Creating bugs since ...1999<br>📚 I'm currently learning ...Next.js</p>
 
-###
 
-<h2 align="left">Tech Stack</h2>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aosaf-ibad-chowdhury-a01758290/" target="_blank">
