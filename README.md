@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 This is Md. Aosaf Ibad Chowdhury</h1>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aosaf098&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aosaf098&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aosaf098&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
