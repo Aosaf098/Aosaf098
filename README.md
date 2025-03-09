@@ -37,13 +37,7 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
-###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...1999<br>📚 I'm currently learning ...Next.js</p>
 
 
 ###
